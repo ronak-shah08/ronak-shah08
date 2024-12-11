@@ -8,7 +8,7 @@ I'm currently pursuing a Master's in Business Analytics at the University of Mar
 I believe in the power of data to solve complex problems, and I’m excited about using analytics to uncover trends, optimize performance, and make a tangible difference.
 
 ### 🛠 Technical Skills
-- 🔨 Tools: Microsoft Excel,Microsoft Word, Microsoft PowerPoint, Hyperion Essbase, Bloomberg, IBM SPSS, Monday.com, 
+- 👨‍💻 Tools: Microsoft Excel,Microsoft Word, Microsoft PowerPoint, Hyperion Essbase, Bloomberg, IBM SPSS, Monday.com, 
 - 💻 Programming: Python, R, SQL
 - 📊 Data Visualization: Tableau, Power BI
 - 📚 Core Expertise: FP&A, Business Analysis, Financial Planning, Data Analytics, Stakeholder Management, Cross-Functional Teamwork.
@@ -28,8 +28,13 @@ I believe in the power of data to solve complex problems, and I’m excited abou
 - **🏅UMD Softball Performance Analysis:** Designed comprehensive performance dashboards using MySQL and Tableau.
 
 ### 📫 Let’s Connect!
-[<img align="left" alt="Ronak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ronak | Mail" width="22px" src="https://img.icons8.com/ios-filled/50/000000/new-post.png" />][mail]
+<a href="https://www.linkedin.com/in/ronak-v-shah/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+</a>
+<a href="mailto:ronak99@umd.edu" target="_blank">
+  <img src="https://img.shields.io/badge/-Email-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
+</a>
+
 
 
 
@@ -39,5 +44,3 @@ ronak-shah08/ronak-shah08 is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-[linkedin]: https://www.linkedin.com/in/ronak-v-shah/
-[mail]: mailto:ronak99@umd.edu
