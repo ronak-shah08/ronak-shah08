@@ -16,7 +16,7 @@ I believe in the power of data to solve complex problems, and I’m excited abou
 ## 💼 Work Highlights
 - **Graduate Assistant, University of Maryland**
   - Conducted 15+ interviews for a departmental Listening Tour and presented actionable insights.
-  -Enhanced project management efficiency by 25% using Monday.com & Mailchimp.
+  - Enhanced project management efficiency by 25% using Monday.com & Mailchimp.
 - **Financial Analyst, Citi Bank**
   - Automated dashboards for Client Analytics, reducing analysis time by 50%.
   - Led annual planning for a $1B business and streamlined budgeting processes.
